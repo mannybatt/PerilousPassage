@@ -9,13 +9,13 @@ Enjoy this Tour of the Scream corridor!
 This consists of several ESP8266 Microcontrollers designed to manage various inputs and outputs with various communications handled through MQTT!
 Each piece of code controls the following components
 
-Porch: Control Various effects in the "Porch" portion of the haunt
+Porch: Control Various effects in the "Porch" portion of the haunt<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Detection of people entering the haunt, sending MQTT triggers for Fog, House background audio<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Dectect doorbell press, sending MQTT trigger for activation of GhostFace Mech
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Change the color of the Haunt's pulsed entry signal (Colored Eyeball)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of Porch background audio (Creepy woods sounds)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of GhostFace Mech Sound trigger (Ghost Face Lines)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activate audio input relay (to change Porch BG audio speaker to proper input
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Dectect doorbell press, sending MQTT trigger for activation of GhostFace Mech<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Change the color of the Haunt's pulsed entry signal (Colored Eyeball)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of Porch background audio (Creepy woods sounds)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of GhostFace Mech Sound trigger (Ghost Face Lines)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activate audio input relay (to change Porch BG audio speaker to proper input<br>
 
 House: Control various effects in the "House" portion of the haunt
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Send MQTT signal to pulsed entry signal when people have vacated the House portion of haunt
