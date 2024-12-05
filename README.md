@@ -33,11 +33,11 @@ Each piece of code controls the following components<br>
   
 ## FogControl: Fog Machine Control<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Fog Control Remote Relay On<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Fog Control Remote Relay Off<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Fog Control Remote Relay Off<br><br>
 
 In addition to these four microcontrollers there were also 5 WLED controllers and 1 PixelBlaze controller
 for additional lighting control!<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## WLED:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## WLED: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Spotlight for doorbell sign<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-RGB Porch light <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-RGB Porch door window creepy lighting<br>
@@ -46,5 +46,5 @@ for additional lighting control!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-RGB House Chandelier<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-RGB House Sconces (x2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-RGB House window forest lighting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## PixelBlaze:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## PixelBlaze: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-House curtain lightning effect (x2)<br>
