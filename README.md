@@ -10,7 +10,7 @@ This consists of several ESP8266 Microcontrollers designed to manage various inp
 Each piece of code controls the following components
 
 Porch: Control Various effects in the "Porch" portion of the haunt
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Detection of people entering the haunt, sending MQTT triggers for Fog, House background audio
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Detection of people entering the haunt, sending MQTT triggers for Fog, House background audio<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Dectect doorbell press, sending MQTT trigger for activation of GhostFace Mech
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Change the color of the Haunt's pulsed entry signal (Colored Eyeball)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of Porch background audio (Creepy woods sounds)
