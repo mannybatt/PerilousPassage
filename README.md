@@ -1,7 +1,7 @@
 # PerilousPassage
 All the code required to bring my annual Haunt to life! Located in my house's entry corridor. This year's theme is based off the Horror classic, Scream!<br>
 
-Enjoy this Tour of the Scream corridor!<br>
+Enjoy this tour of the Scream corridor!<br>
 
 [URL]<br>
 
@@ -24,7 +24,7 @@ Each piece of code controls the following components<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of full body Ghost Face scare audio (Ghost Face Lines)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of full body Ghost Face RGB spotlight<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Detection of House phone being lifted off the hook<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activation of House phone Ghost Face lines<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of House phone Ghost Face lines<br>
 
 ## GhostFaceMech: Control Mechanisms of homemade ghostface jumping animatronic<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Activation of jumping motor relay<br>
@@ -33,7 +33,7 @@ Each piece of code controls the following components<br>
   
 ## FogControl: Fog Machine Control<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Fog Control Remote Relay On<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Fog Control Remote Relay Off<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Fog Control Remote Relay Off<br><br><br>
 
 In addition to these four microcontrollers there were also 5 WLED controllers and 1 PixelBlaze controller
 for additional lighting control!<br>
