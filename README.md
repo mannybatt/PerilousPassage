@@ -9,7 +9,7 @@ Enjoy this Tour of the Scream corridor!<br>
 This consists of several ESP8266 Microcontrollers designed to manage various inputs and outputs with various communications handled through MQTT!
 Each piece of code controls the following components<br>
 
-<h3>Porch</h3>: Control Various effects in the "Porch" portion of the haunt<br>
+## Porch: Control Various effects in the "Porch" portion of the haunt<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Detection of people entering the haunt, sending MQTT triggers for Fog, House background audio<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Dectect doorbell press, sending MQTT trigger for activation of GhostFace Mech<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Change the color of the Haunt's pulsed entry signal (Colored Eyeball)<br>
